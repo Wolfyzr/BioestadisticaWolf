@@ -7,6 +7,8 @@ Shutt, J.D., Bell, S.C., Bell, F., Castello, J., El Harouchi, M. and Burgess, M.
 # BasesDatosPublicos para estudiar ANOVA completamente aleatorizada
 La referencia de la base de datos_maiz_2024 es:
 de Camargo Santos, A., Culman, S. W., & Deiss, L. (2025). Sixty years of crop diversification with perennials improves yields more than no-tillage in Ohio grain cropping systems. Field Crops Research, 331, 109993.
+La referencia de df_babuinos.csv es:
+Miller, E. A., Livermore, J. A., Alberts, S. C., Tung, J., & Archie, E. A. (2017). Ovarian cycling and reproductive state shape the vaginal microbiota in wild baboons. Microbiome, 5(1), 8.
 # BasesDatosPublicos para estudiar t-student
 La referencia de la base de df_briofitos.csv es:
 Virtanen, R., Eskelinen, A. and Harrison, S. (2017), Comparing the responses of bryophytes and short-statured vascular plants to climate shifts and eutrophication. Funct Ecol, 31: 946-954. https://doi.org/10.1111/1365-2435.12788
